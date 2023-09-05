@@ -11,6 +11,7 @@
       <DvInput placeholder="Username" />
       <DvInput placeholder="Password" />
       <DvButton>Login</DvButton>
+      <div>Forgot password</div>
     </DvStack>
   </div>
 </template>
